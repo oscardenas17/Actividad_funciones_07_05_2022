@@ -70,19 +70,19 @@ body{
     background: #660285;
 }
 .card:nth-child(6) .circle::before{
-    background: #542525;
+    background: #c10707;
 }
 .card:nth-child(7) .circle::before{
-    background: #542525;
+    background: #00491d;
 }
 .card:nth-child(8) .circle::before{
-    background: #542525;
+    background: #0d0000;
 }
 .card:nth-child(9) .circle::before{
-    background: #542525;
+    background: #013d03;
 }
 .card:nth-child(10) .circle::before{
-    background: #542525;
+    background: #ac005f;
 }
 /************************************/
 

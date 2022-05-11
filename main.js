@@ -21,49 +21,49 @@ let producto3 ={
 };
 let producto4 ={
     titulo: 'Laravel',
-    parrafo: 'Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8. Su filosofía es desarrollar código PHP de forma elegante y simple, evitando el "código espagueti".',
+    parrafo: 'Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8..',
     logo: 'img/laravel-lg.png',
     img: 'img/laravel-logo.png',
     id: document.querySelector('#producto4')
 };
 let producto5 ={
     titulo: 'NetCore',
-    parrafo: 'NET 6, el framework de Windows, para que seas el primero en disfrutarlas. Tras más de un año de desarrollo la nueva versión de . NET 6 acaba de ser lanzada por Microsoft.',
+    parrafo: 'NET 6, el framework de Windows, para que seas el primero en disfrutarlas. ',
     logo: 'img/notecore-lg.png',
     img: 'img/netcore-logo.png',
     id: document.querySelector('#producto5')
 };
 let producto6 ={
     titulo: 'Svelte',
-    parrafo: 'Svelte es un compilador Front End gratuito y de código abierto ​ creado por Rich Harris y mantenido por los miembros del equipo central de Svelte. ​ Las aplicaciones Svelte no incluyen referencias al framework',
+    parrafo: 'Svelte es un compilador Front End gratuito y de código abierto ​ creado por Rich Harris y mantenido por los miembros del equipo central de Svelte.',
     logo: 'img/svelte-lg.png',
     img: 'img/svelte-logo.png',
     id: document.querySelector('#producto6')
 };
 let producto7 ={
     titulo: 'Django',
-    parrafo: 'Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como modelo–vista–controlador.',
+    parrafo: 'Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como mvc.',
     logo: 'img/django-lg.png',
     img: 'img/django-logo.png',
     id: document.querySelector('#producto7')
 };
 let producto8 ={
     titulo: 'NextJS',
-    parrafo: 'Next.js es un marco de desarrollo web de código abierto creado sobre Node.js que permite funcionalidades de aplicaciones web basadas en React, como la representación del lado del servidor y la generación de sitios web estáticos',
+    parrafo: 'Next.js es un marco de desarrollo web de código abierto creado sobre Node.js que permite funcionalidades de aplicaciones web basadas en React',
     logo: 'img/next-lg.png',
     img: 'img/next-logo.png',
     id: document.querySelector('#producto8')
 };
 let producto9 ={
     titulo: 'NodeJS',
-    parrafo: 'Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, ',
+    parrafo: 'Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en js ',
     logo: 'img/node-lg.png',
     img: 'img/node-logo.png',
     id: document.querySelector('#producto9')
 };
 let producto10 ={
     titulo: 'tailwindCSS',
-    parrafo: 'Tailwind CSS es un framework de CSS de código abierto​ para el diseño de páginas web. La principal característica de esta biblioteca es que, a diferencia de otras como Bootstrap, no genera una serie de clases predefinidas para elementos como botones o tablas',
+    parrafo: 'Tailwind CSS es un framework de CSS de código abierto​ para el diseño de páginas web. ',
     logo: 'img/tailwind-lg.png',
     img: 'img/tailwind-logo.png',
     id: document.querySelector('#producto10')
