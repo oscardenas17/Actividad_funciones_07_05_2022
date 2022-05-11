@@ -60,7 +60,7 @@ body{
     background: #0c6994;
 }
 .card:nth-child(3) .circle::before{
-    background: #542525;
+    background: #980606;
     ;
 }
 .card:nth-child(4) .circle::before{
